@@ -16,11 +16,7 @@
 
 The goal of this project is not to build *just another dashboard*. But, to focus on collaborative plot ideas, and a mobile friendly UI/UX. Feel free to open an issue requesting a type of plot, table, or any feature for that matter. Join the repo's [Gitter chat](https://gitter.im/ncov-dashboard/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
 
-## Contributors
 
-[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/images/0)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/links/0)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/images/1)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/links/1)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/images/2)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/links/2)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/images/3)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/links/3)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/images/4)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/links/4)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/images/5)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/links/5)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/images/6)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/links/6)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/images/7)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/covid-19-dashboard/links/7)
-
-## Getting Started
 
 ### Prerequisites
 
@@ -118,6 +114,4 @@ Date
 * Our World in Data: [OWID](https://ourworldindata.org/) GitHub Data repository, found [here](https://github.com/owid/covid-19-data/tree/master/public/data).
 * New York Times' COVID GitHub data repository, found [here](https://github.com/nytimes/covid-19-data)
 
-## License
 
-[@MIT](https://github.com/BrianRuizy/covid19-dashboard/blob/master/LICENSE.md)
